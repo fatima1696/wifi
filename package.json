@@ -1,0 +1,28 @@
+{
+  "name": "wifi-through-walls",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Why does Wi-Fi go through walls? Remotion + Three.js vertical short",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render WifiThroughWalls out/wifi-through-walls.mp4 --gl=angle",
+    "render:ci": "remotion render WifiThroughWalls out/wifi-through-walls.mp4 --gl=swangle --concurrency=2",
+    "still": "remotion still WifiThroughWalls out/frame.png --frame=60 --gl=angle"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.2.0",
+    "@remotion/cli": "4.0.528",
+    "@remotion/google-fonts": "4.0.528",
+    "@remotion/media": "4.0.528",
+    "@remotion/three": "4.0.528",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "4.0.528",
+    "three": "^0.178.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/three": "^0.178.0",
+    "typescript": "^5.8.0"
+  }
+}

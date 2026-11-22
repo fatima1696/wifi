@@ -1,0 +1,12 @@
+Wi-Fi is light, so why does it go through walls?
+It's the same stuff your eyes see, just stretched.
+Its waves are about a hundred thousand times longer, and the longer the wave, the weaker each little packet of light.
+Now, a wall is full of electrons, and they only take light that can kick them up a step.
+The light you see can, so the wall eats it.
+Wi-Fi is far too weak to kick anything, so the electrons let it slip through.
+In glass, the steps are too high even for the light you see, which is why you can see through it.
+So to your Wi-Fi, a brick wall is a window.
+Metal is the opposite.
+Its electrons are loose, so they grab both kinds of light and throw them right back.
+That's why metal is shiny and why your signal dies in an elevator.
+And next time your phone gets full bars through a wall, remember—
